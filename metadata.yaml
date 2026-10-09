@@ -1,0 +1,6 @@
+name: astrbot_plugin_search_history
+display_name: 搜索记录
+desc: 让AstrBot能够自动缓存搜索记录，并允许用户使用指令进行查询。
+version: v1.0.5
+author: JimmyYu01
+repo: https://github.com/JimmyYu01/astrbot_plugin_search_history
